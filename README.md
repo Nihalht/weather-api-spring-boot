@@ -2,7 +2,7 @@
 
 A Spring Boot web application that fetches weather updates from the OpenMeteo API.
 
-## Features
+Features
 
 - Fetch weather by city name (uses geocoding to find coordinates)
 - Fetch weather by coordinates (latitude and longitude)
