@@ -5,7 +5,7 @@ A Spring Boot web application that fetches weather updates from the OpenMeteo AP
 Features
 
 - Fetch weather by city name (uses geocoding to find coordinates)
-- Fetch weather by coordinates (latitude and longitude)
+- Fetch weather by coordinates (latitude and longitude).
 - RESTful API endpoints
 - JSON response format
 - **No API key required** - OpenMeteo is free for non-commercial use!
